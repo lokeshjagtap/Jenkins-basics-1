@@ -6,6 +6,7 @@ public class Home {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is Home class");
+		System.out.println("This is second line");
 	}
 
 }
